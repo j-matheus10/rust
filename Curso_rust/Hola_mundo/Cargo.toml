@@ -1,0 +1,10 @@
+[package]
+name = "Hola_mundo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "Hola_mundo"
+path = "Hola_mundo.rs"
