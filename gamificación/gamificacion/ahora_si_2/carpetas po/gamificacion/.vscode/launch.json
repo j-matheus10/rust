@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+    "type": "cppvsdbg",
+    "request": "launch",
+    "name": "Debug",
+    "program":"C:/Users/jesus/OneDrive/Escritorio/gamificacion/ahora_si_2/carpetas po/gamificacion/base.exe",
+    "args": [],
+    "cwd": "${workspaceFolder}",
+    "console": "newExternalWindow"
+}
+
+    ]
+}
